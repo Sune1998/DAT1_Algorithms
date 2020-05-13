@@ -17,3 +17,5 @@ Jeres algoritmer skal have mindst muligt algoritmisk kompleksitet, hvis I vil la
 Vi skal måle, hvor lang tid det det tager at gennemføre forskellige algoritmer. Gennemse alle 5 klasser i projektet og prøv at se, om du kan forstå, hvordan det hænger sammen. Leg meget gerne med koden, så du bedre kan se, hvordan dte hænger sammen!
 
 God arbejdslyst, András
+
+Det nice
